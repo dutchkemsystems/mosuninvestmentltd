@@ -1,0 +1,6 @@
+{
+  "name": "Mosun Investments Limited",
+  "description": "Parent company for international grocery trade, consumer brands, property development, and SDG advisory between Chicago, IL and Lagos, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
